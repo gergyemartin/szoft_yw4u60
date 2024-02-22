@@ -8,6 +8,7 @@ namespace Fibonacci
 {
     internal class Sor
     {
+        //
         public int Sorszam { get; set; }
         public int Érték { get; set; }
 
