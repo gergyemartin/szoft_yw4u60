@@ -9,7 +9,22 @@ namespace Hajosteszt
         {
             InitializeComponent();
         }
+        void KerdesMegjelenites(Kerdes kerdes)
+        {
+            label1.Text = kerdes.KerdesSzoveg;
+            textBox1.Text = kerdes.Válasz1;
+            textBox2.Text = kerdes.Válasz2;
+            textBox3.Text = kerdes.Válasz3;
 
+            if (!string.IsNullOrEmpty(kerdes.URL))
+            {
+                pictureBox1.Visible = false;
+            }
+            else
+            {
+                pictureBox1.Load("https://storage.altinum.hu/hajo/" + kerdes.URL);
+            }
+        }
         private void Form1_Load(object sender, EventArgs e)
         {
             OsszesKerdes = KerdesekBetoltse();
@@ -44,22 +59,21 @@ namespace Hajosteszt
             }
             sr.Close();
             return kerdesek;
-            void KerdesMegjelenites(Kerdes kerdes)
-            {
-                label1.Text = kerdes.KerdesSzoveg;
-                textBox1.Text = kerdes.Válasz1;
-                textBox2.Text = kerdes.Válasz2;
-                textBox3.Text = kerdes.Válasz3;
+        }
 
-                if (string.IsNullOrEmpty(kerdes.URL))
-                {
-                    pictureBox1.Visible = false;
-                }
-                else
-                {
-                    pictureBox1.Load("https://storage.altinum.hu/hajo/" + kerdes.URL);
-                }
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MegjelenitettKerdesSzama++;
+            if (MegjelenitettKerdesSzama == AktualisKerdesek.Count)
+            {
+                MegjelenitettKerdesSzama = 0;
             }
+            KerdesMegjelenites(AktualisKerdesek[MegjelenitettKerdesSzama]);
         }
     }
 }
