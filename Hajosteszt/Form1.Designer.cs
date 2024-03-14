@@ -64,6 +64,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(353, 63);
             textBox1.TabIndex = 2;
+            textBox1.Click += textBox1_Click;
             // 
             // textBox2
             // 
@@ -72,6 +73,7 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(353, 65);
             textBox2.TabIndex = 3;
+            textBox2.Click += textBox2_Click;
             // 
             // textBox3
             // 
@@ -80,21 +82,22 @@
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(353, 62);
             textBox3.TabIndex = 4;
+            textBox3.Click += textBox3_Click;
             textBox3.TextChanged += textBox3_TextChanged;
             // 
             // pictureBox1
             // 
-            pictureBox1.Location = new Point(492, 41);
+            pictureBox1.Location = new Point(472, 12);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(264, 183);
+            pictureBox1.Size = new Size(283, 194);
             pictureBox1.TabIndex = 5;
             pictureBox1.TabStop = false;
             // 
             // button1
             // 
-            button1.Location = new Point(391, 72);
+            button1.Location = new Point(582, 212);
             button1.Name = "button1";
-            button1.Size = new Size(75, 23);
+            button1.Size = new Size(75, 34);
             button1.TabIndex = 6;
             button1.Text = "button1";
             button1.UseVisualStyleBackColor = true;

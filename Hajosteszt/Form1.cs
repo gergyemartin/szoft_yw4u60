@@ -15,14 +15,19 @@ namespace Hajosteszt
             textBox1.Text = kerdes.Válasz1;
             textBox2.Text = kerdes.Válasz2;
             textBox3.Text = kerdes.Válasz3;
+            textBox1.BackColor = Color.White;
+            textBox2.BackColor = Color.White;
+            textBox3.BackColor = Color.White;
 
-            if (!string.IsNullOrEmpty(kerdes.URL))
+
+            if (string.IsNullOrEmpty(kerdes.URL))
             {
                 pictureBox1.Visible = false;
             }
             else
             {
                 pictureBox1.Load("https://storage.altinum.hu/hajo/" + kerdes.URL);
+                pictureBox1.Visible = true;
             }
         }
         private void Form1_Load(object sender, EventArgs e)
@@ -74,6 +79,40 @@ namespace Hajosteszt
                 MegjelenitettKerdesSzama = 0;
             }
             KerdesMegjelenites(AktualisKerdesek[MegjelenitettKerdesSzama]);
+        }
+
+        private void textBox1_Click(object sender, EventArgs e)
+        {
+            textBox1.BackColor = Color.Salmon;
+            Szinezes();
+        }
+
+        private void textBox2_Click(object sender, EventArgs e)
+        {
+            textBox2.BackColor = Color.Salmon;
+            Szinezes();
+        }
+
+        private void textBox3_Click(object sender, EventArgs e)
+        {
+            textBox3.BackColor = Color.Salmon;
+            Szinezes();
+        }
+        void Szinezes()
+        {
+            int jovalasz = AktualisKerdesek[MegjelenitettKerdesSzama].HelyesValasz;
+            if (jovalasz == 1)
+            {
+                textBox1.BackColor = Color.LightGreen;
+            }
+            if (jovalasz == 2)
+            {
+                textBox1.BackColor = Color.LightGreen;
+            }
+            if (jovalasz == 3)
+            {
+                textBox1.BackColor = Color.LightGreen;
+            }
         }
     }
 }
