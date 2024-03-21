@@ -1,0 +1,17 @@
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\bin\Debug\net7.0-windows\Snakeű.exe
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\bin\Debug\net7.0-windows\Snakeű.deps.json
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\bin\Debug\net7.0-windows\Snakeű.runtimeconfig.json
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\bin\Debug\net7.0-windows\Snakeű.dll
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\bin\Debug\net7.0-windows\Snakeű.pdb
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\obj\Debug\net7.0-windows\Snakeű.csproj.AssemblyReference.cache
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\obj\Debug\net7.0-windows\Snakeű.Form1.resources
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\obj\Debug\net7.0-windows\Snakeű.csproj.GenerateResource.cache
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\obj\Debug\net7.0-windows\Snakeű.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\obj\Debug\net7.0-windows\Snakeű.AssemblyInfoInputs.cache
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\obj\Debug\net7.0-windows\Snakeű.AssemblyInfo.cs
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\obj\Debug\net7.0-windows\Snakeű.csproj.CoreCompileInputs.cache
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\obj\Debug\net7.0-windows\Snakeű.dll
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\obj\Debug\net7.0-windows\refint\Snakeű.dll
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\obj\Debug\net7.0-windows\Snakeű.pdb
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\obj\Debug\net7.0-windows\Snakeű.genruntimeconfig.cache
+C:\Users\YW4U60\source\repos\Snakeű\Snakeű\obj\Debug\net7.0-windows\ref\Snakeű.dll
