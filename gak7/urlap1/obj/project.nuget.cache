@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4WN6QQsQ5Wng9NIdezpsP1EdYb9C5S1mxrF+HK4XIoP/VPaRvpRivFj+DJ9GQTjVWXqgCNonce2TBPan0Daprg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YW4U60\\source\\repos\\gak7\\urlap1\\urlap1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YW4U60\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

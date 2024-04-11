@@ -1,0 +1,17 @@
+C:\Users\YW4U60\source\repos\gak7\urlap1\bin\Debug\net7.0-windows\urlap1.exe
+C:\Users\YW4U60\source\repos\gak7\urlap1\bin\Debug\net7.0-windows\urlap1.deps.json
+C:\Users\YW4U60\source\repos\gak7\urlap1\bin\Debug\net7.0-windows\urlap1.runtimeconfig.json
+C:\Users\YW4U60\source\repos\gak7\urlap1\bin\Debug\net7.0-windows\urlap1.dll
+C:\Users\YW4U60\source\repos\gak7\urlap1\bin\Debug\net7.0-windows\urlap1.pdb
+C:\Users\YW4U60\source\repos\gak7\urlap1\obj\Debug\net7.0-windows\urlap1.csproj.AssemblyReference.cache
+C:\Users\YW4U60\source\repos\gak7\urlap1\obj\Debug\net7.0-windows\urlap1.Form1.resources
+C:\Users\YW4U60\source\repos\gak7\urlap1\obj\Debug\net7.0-windows\urlap1.csproj.GenerateResource.cache
+C:\Users\YW4U60\source\repos\gak7\urlap1\obj\Debug\net7.0-windows\urlap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YW4U60\source\repos\gak7\urlap1\obj\Debug\net7.0-windows\urlap1.AssemblyInfoInputs.cache
+C:\Users\YW4U60\source\repos\gak7\urlap1\obj\Debug\net7.0-windows\urlap1.AssemblyInfo.cs
+C:\Users\YW4U60\source\repos\gak7\urlap1\obj\Debug\net7.0-windows\urlap1.csproj.CoreCompileInputs.cache
+C:\Users\YW4U60\source\repos\gak7\urlap1\obj\Debug\net7.0-windows\urlap1.dll
+C:\Users\YW4U60\source\repos\gak7\urlap1\obj\Debug\net7.0-windows\refint\urlap1.dll
+C:\Users\YW4U60\source\repos\gak7\urlap1\obj\Debug\net7.0-windows\urlap1.pdb
+C:\Users\YW4U60\source\repos\gak7\urlap1\obj\Debug\net7.0-windows\urlap1.genruntimeconfig.cache
+C:\Users\YW4U60\source\repos\gak7\urlap1\obj\Debug\net7.0-windows\ref\urlap1.dll
