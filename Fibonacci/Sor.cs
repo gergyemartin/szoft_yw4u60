@@ -11,6 +11,5 @@ namespace Fibonacci
         //
         public int Sorszam { get; set; }
         public int Érték { get; set; }
-
     }
 }

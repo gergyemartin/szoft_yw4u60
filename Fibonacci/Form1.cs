@@ -19,7 +19,6 @@ namespace Fibonacci
             }
             dataGridView1.DataSource = sorok;
         }
-
         int Fibonacci(int n)
         {
             if (n == 0) return 0;
