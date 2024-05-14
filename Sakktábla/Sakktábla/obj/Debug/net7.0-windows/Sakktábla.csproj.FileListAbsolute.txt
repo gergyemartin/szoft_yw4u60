@@ -1,0 +1,16 @@
+C:\Users\marti\source\repos\Sakktábla\Sakktábla\bin\Debug\net7.0-windows\Sakktábla.exe
+C:\Users\marti\source\repos\Sakktábla\Sakktábla\bin\Debug\net7.0-windows\Sakktábla.deps.json
+C:\Users\marti\source\repos\Sakktábla\Sakktábla\bin\Debug\net7.0-windows\Sakktábla.runtimeconfig.json
+C:\Users\marti\source\repos\Sakktábla\Sakktábla\bin\Debug\net7.0-windows\Sakktábla.dll
+C:\Users\marti\source\repos\Sakktábla\Sakktábla\bin\Debug\net7.0-windows\Sakktábla.pdb
+C:\Users\marti\source\repos\Sakktábla\Sakktábla\obj\Debug\net7.0-windows\Sakktábla.Form1.resources
+C:\Users\marti\source\repos\Sakktábla\Sakktábla\obj\Debug\net7.0-windows\Sakktábla.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\Sakktábla\Sakktábla\obj\Debug\net7.0-windows\Sakktábla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Sakktábla\Sakktábla\obj\Debug\net7.0-windows\Sakktábla.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Sakktábla\Sakktábla\obj\Debug\net7.0-windows\Sakktábla.AssemblyInfo.cs
+C:\Users\marti\source\repos\Sakktábla\Sakktábla\obj\Debug\net7.0-windows\Sakktábla.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Sakktábla\Sakktábla\obj\Debug\net7.0-windows\Sakktábla.dll
+C:\Users\marti\source\repos\Sakktábla\Sakktábla\obj\Debug\net7.0-windows\refint\Sakktábla.dll
+C:\Users\marti\source\repos\Sakktábla\Sakktábla\obj\Debug\net7.0-windows\Sakktábla.pdb
+C:\Users\marti\source\repos\Sakktábla\Sakktábla\obj\Debug\net7.0-windows\Sakktábla.genruntimeconfig.cache
+C:\Users\marti\source\repos\Sakktábla\Sakktábla\obj\Debug\net7.0-windows\ref\Sakktábla.dll
