@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Kamatszamitas3/1.0.0": {
+        "runtime": {
+          "Kamatszamitas3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kamatszamitas3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

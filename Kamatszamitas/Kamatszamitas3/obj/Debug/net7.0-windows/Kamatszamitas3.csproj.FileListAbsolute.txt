@@ -1,0 +1,16 @@
+C:\Users\marti\source\repos\Kamatszamitas3\Kamatszamitas3\bin\Debug\net7.0-windows\Kamatszamitas3.exe
+C:\Users\marti\source\repos\Kamatszamitas3\Kamatszamitas3\bin\Debug\net7.0-windows\Kamatszamitas3.deps.json
+C:\Users\marti\source\repos\Kamatszamitas3\Kamatszamitas3\bin\Debug\net7.0-windows\Kamatszamitas3.runtimeconfig.json
+C:\Users\marti\source\repos\Kamatszamitas3\Kamatszamitas3\bin\Debug\net7.0-windows\Kamatszamitas3.dll
+C:\Users\marti\source\repos\Kamatszamitas3\Kamatszamitas3\bin\Debug\net7.0-windows\Kamatszamitas3.pdb
+C:\Users\marti\source\repos\Kamatszamitas3\Kamatszamitas3\obj\Debug\net7.0-windows\Kamatszamitas3.Form1.resources
+C:\Users\marti\source\repos\Kamatszamitas3\Kamatszamitas3\obj\Debug\net7.0-windows\Kamatszamitas3.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\Kamatszamitas3\Kamatszamitas3\obj\Debug\net7.0-windows\Kamatszamitas3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Kamatszamitas3\Kamatszamitas3\obj\Debug\net7.0-windows\Kamatszamitas3.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Kamatszamitas3\Kamatszamitas3\obj\Debug\net7.0-windows\Kamatszamitas3.AssemblyInfo.cs
+C:\Users\marti\source\repos\Kamatszamitas3\Kamatszamitas3\obj\Debug\net7.0-windows\Kamatszamitas3.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Kamatszamitas3\Kamatszamitas3\obj\Debug\net7.0-windows\Kamatszamitas3.dll
+C:\Users\marti\source\repos\Kamatszamitas3\Kamatszamitas3\obj\Debug\net7.0-windows\refint\Kamatszamitas3.dll
+C:\Users\marti\source\repos\Kamatszamitas3\Kamatszamitas3\obj\Debug\net7.0-windows\Kamatszamitas3.pdb
+C:\Users\marti\source\repos\Kamatszamitas3\Kamatszamitas3\obj\Debug\net7.0-windows\Kamatszamitas3.genruntimeconfig.cache
+C:\Users\marti\source\repos\Kamatszamitas3\Kamatszamitas3\obj\Debug\net7.0-windows\ref\Kamatszamitas3.dll
