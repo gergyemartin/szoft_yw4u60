@@ -1,0 +1,16 @@
+C:\Users\marti\source\repos\Pascal2\Pascal2\bin\Debug\net7.0-windows\Pascal2.exe
+C:\Users\marti\source\repos\Pascal2\Pascal2\bin\Debug\net7.0-windows\Pascal2.deps.json
+C:\Users\marti\source\repos\Pascal2\Pascal2\bin\Debug\net7.0-windows\Pascal2.runtimeconfig.json
+C:\Users\marti\source\repos\Pascal2\Pascal2\bin\Debug\net7.0-windows\Pascal2.dll
+C:\Users\marti\source\repos\Pascal2\Pascal2\bin\Debug\net7.0-windows\Pascal2.pdb
+C:\Users\marti\source\repos\Pascal2\Pascal2\obj\Debug\net7.0-windows\Pascal2.Form1.resources
+C:\Users\marti\source\repos\Pascal2\Pascal2\obj\Debug\net7.0-windows\Pascal2.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\Pascal2\Pascal2\obj\Debug\net7.0-windows\Pascal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Pascal2\Pascal2\obj\Debug\net7.0-windows\Pascal2.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Pascal2\Pascal2\obj\Debug\net7.0-windows\Pascal2.AssemblyInfo.cs
+C:\Users\marti\source\repos\Pascal2\Pascal2\obj\Debug\net7.0-windows\Pascal2.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Pascal2\Pascal2\obj\Debug\net7.0-windows\Pascal2.dll
+C:\Users\marti\source\repos\Pascal2\Pascal2\obj\Debug\net7.0-windows\refint\Pascal2.dll
+C:\Users\marti\source\repos\Pascal2\Pascal2\obj\Debug\net7.0-windows\Pascal2.pdb
+C:\Users\marti\source\repos\Pascal2\Pascal2\obj\Debug\net7.0-windows\Pascal2.genruntimeconfig.cache
+C:\Users\marti\source\repos\Pascal2\Pascal2\obj\Debug\net7.0-windows\ref\Pascal2.dll
